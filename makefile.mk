@@ -9,3 +9,4 @@ all :
 
 clean:
     rm -f $(EXEC) *.gdb *.o
+#4 space make no tab on makefile, plz check when complie
