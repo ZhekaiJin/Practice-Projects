@@ -1,2 +1,2 @@
-# Solarsystem
-OpenGL and GLUT 
+# Projects 
+Menu
