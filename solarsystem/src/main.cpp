@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  solarsystem
-//
-//  Created by Changkun Ou on 16/06/07.
-//  Copyright © 2016 Shiyanlou.com. All rights reserved.
-//
+
 
 
 

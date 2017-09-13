@@ -1,9 +1,4 @@
-//
-//  star.hpp
-//  solarsystem
-//
-//  Created by Changkun Ou on 16/06/07.
-//  Copyright © 2016 Shiyanlou.com. All rights reserved.
+
 //
 #ifndef star_hpp
 #define star_hpp
