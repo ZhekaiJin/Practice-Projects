@@ -21,29 +21,29 @@ public:
 		this->processing(num,1,'I','V','X');
 		return this->T;}
 	void processing(int &num, int level, char A,char B,char C){
-	    			if(num>=level){
-	    					int a =num%level;
-	    					//cout<<"now a is "<<a<<endl;
-	    			    		int b =(num-a)/level;
-		    				//cout<<"now b is "<<b<<endl;
-	    			    		if(b<4){
-	    			    			for (int i=0;i<b;i++) {T+=A;}
-	    			    		}else if(b==4){
-	    			    			T+=A;
-	    			    			T+=B;
-	    			    		}else if (b==5){
-	    			    			T+=B;
-	    			    		}else if (b==9){
-	    			    			T+=A;
-	    			    			T+=C;
-	    			    		}else{
-	    			    			T+=B;
-	    			    			for (int i=0;i<b-5;i++) {
-	    			    				T+=A;
-	    			    			}
-	    			}
-	    			    		num=a;
-	    			}
+		if(num>=level){
+			int a =num%level;
+			//cout<<"now a is "<<a<<endl;
+    		int b =(num-a)/level;
+			//cout<<"now b is "<<b<<endl;
+    		if(b<4){
+    			for (int i=0;i<b;i++) {T+=A;}
+    		}else if(b==4){
+    			T+=A;
+    			T+=B;
+    		}else if (b==5){
+    			T+=B;
+    		}else if (b==9){
+    			T+=A;
+    			T+=C;
+    		}else{
+    			T+=B;
+    			for (int i=0;i<b-5;i++) {
+    				T+=A;
+    			}
+			}
+		    num=a;
+		}
 	}
 };
 int main() {
