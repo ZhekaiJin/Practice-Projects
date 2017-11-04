@@ -47,7 +47,7 @@ void do_ls(char dirname[]){
     else{
         while((direntp=readdir(dir_ptr))!=NULL)
         		dostat(direntp->d_name);
-        		closedir(dir_ptr);
+        closedir(dir_ptr);
     }
  }
 
