@@ -1,6 +1,6 @@
 # Projects 
-Author: Scott Zhekai Jin
-Timeline:2017
+### Author: Scott Zhekai Jin
+### Timeline:2017
 ## Menu
 * [Snake_C](https://github.com/ZhekaiJin/Practice-Projects/tree/master/Calculator_C).
 * [Solarsystem_C++](https://github.com/ZhekaiJin/Practice-Projects/tree/master/solarsystem_C%2B%2B).
