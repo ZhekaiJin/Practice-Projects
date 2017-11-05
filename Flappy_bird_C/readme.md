@@ -3,7 +3,7 @@ Flappy_bird_C: Primitive flappybird on terminal
 
 ## Description ##
 
-This is a simple calculator that takes extremely simple and formmated commands, and then put the result on the next line.
+This is a classic flappy bird implmentation on terminal.
 
 ## Dependencies ##
 * ncurses
