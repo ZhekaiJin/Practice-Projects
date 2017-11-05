@@ -9,12 +9,12 @@ This is a simple class snake game on terminal
 * gcc/Clang
 * make
 
-##Installing ncurses on linux 
+## Installing ncurses on linux 
 ```bash
 sudo apt-get update
 sudo apt-get install libncurses5-dev
 ```
-##Installing ncurses on MACOS
+## Installing ncurses on MACOS
 ```bash
 curl -O ftp://ftp.gnu.org/gnu/ncurses/ncurses-5.9.tar.gz
 tar -xzvf ncurses-5.9.tar.gz
