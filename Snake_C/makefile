@@ -1,5 +1,5 @@
 ALL: src/snake.c
-	gcc -o snake src/snake.c -l ncurses
+	gcc -o snake src/snake.c -lcurses
 
 .PHONY:clean
 
