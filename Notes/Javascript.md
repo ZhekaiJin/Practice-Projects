@@ -21,7 +21,7 @@
 </html>
 ```
 
-*JavaScript Can Change HTML Content
+* JavaScript Can Change HTML Content
 ```javascript
 document.getElementById("demo").innerHTML = "Hello JavaScript";
 ```
@@ -29,7 +29,7 @@ document.getElementById("demo").innerHTML = "Hello JavaScript";
 ```javascript
 document.getElementById('demo').innerHTML = 'Hello JavaScript';
 ```
-*JavaScript Can Change HTML Attributes
+* JavaScript Can Change HTML Attributes
 ```javascript
 <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
 
@@ -37,18 +37,18 @@ document.getElementById('demo').innerHTML = 'Hello JavaScript';
 
 <button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
 ```
-*JavaScript Can Change HTML Styles (CSS)
+* JavaScript Can Change HTML Styles (CSS)
 ```javascript
 document.getElementById("demo").style.fontSize = "35px";
 
 document.getElementById('demo').style.fontSize = '35px';
 ```
-*JavaScript Can Hide HTML Elements
+* JavaScript Can Hide HTML Elements
 ```javascript
 document.getElementById("demo").style.display = "none";
 ```
 
-*JavaScript Can Show HTML Elements
+* JavaScript Can Show HTML Elements
 ```javascript
 document.getElementById("demo").style.display = "block";
 ```
