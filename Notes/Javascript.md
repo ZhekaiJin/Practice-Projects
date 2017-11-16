@@ -3,9 +3,10 @@
 - [ ] HTML
 - [ ] CSS
 
-**Introduction**
 
-## Template
+## Introduction
+**Template**
+
 ```javascript
 <!DOCTYPE html>
 <html>
