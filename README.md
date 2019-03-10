@@ -6,7 +6,7 @@
 * [OS-Practice](https://github.com/ZhekaiJin/ECE-357-Operating-System) - Operating system class coursework
 * [Textcat](https://github.com/ZhekaiJin/Textcat) - Text categorization using Naive Bayes method with novel smoothing techniques. 
 * [EventPlus](https://github.com/ZhekaiJin/EventPlus) - Event Search and Ticket Recommendation Service based on Java web service.
-* [Collaborative-OJ](https://github.com/ZhekaiJin/Collaborative-OJ) - collaborative Leetcode-like Online Judge System implementation.
+* [Collaborative-OJ](https://github.com/ZhekaiJin/Collaborative-OJ) - collaborative leetcode-like online judge system (OJ) implementation.
 * [Train-Ticket-Booking-System](https://github.com/ZhekaiJin/Train-Ticket-Booking-System) - command-line ticket search and booking system. 
 * [Snake_C](https://github.com/ZhekaiJin/Practice-Projects/tree/master/Snake_C) - command-line Snake game.
 * [Solarsystem_C++](https://github.com/ZhekaiJin/Practice-Projects/tree/master/solarsystem_C%2B%2B) - Solarsystem visualization in C++.
